@@ -28,7 +28,7 @@ This project also includes the following YAML files:
 
 ## Getting Started
 
-### Companion articles
+### Companion articless
 
 This project is intended for use with the following articles on [docs.microsoft.com][docs]:
 
